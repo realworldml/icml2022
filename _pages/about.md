@@ -42,12 +42,14 @@ Invited Speakers
 
 Call for Submissions & Important Dates
 ------
+<!--#
 Please see the [Call for papers](/cfp/) for submission instructions.
-<!--
+
 * Submission deadline: 22 June 2020, 11:59 PM (AoE time)
 * [Camera-ready paper](cfp.md#camera-ready-instructions) submission deadline: 15 July 2020, 11:59 PM (AoE time)
 * [Lightning talk slides](cfp.md#lightning-talk-instructions) submission deadline: 15 July 2020, 11:59 PM (AoE time)
-* Workshop date: 18th July 2020 -->
+* Workshop date: 18th July 2020
+-->
 
 Organizers
 ------

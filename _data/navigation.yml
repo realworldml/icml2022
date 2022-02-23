@@ -12,5 +12,5 @@ main:
   #  url: /schedule/
   - title: "Organizers"
     url: /organizers/
-  - title: "Past Workshops"
-    url: /related/
+  - title: "Past Workshops: ICML 2020"
+    url: https://realworldml.github.io/icml2020/
