@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RealML @ ICML2020"
+title                    : "ReALML @ ICML2022"
 title_separator          : "-"
-name                     : &name "RealML"
+name                     : &name "ReALML"
 description              : &description "Real World ML"
 url                      : https://realworldml.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,10 +79,9 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "RealML @ ICML2020"
+  name             : "RealML @ ICML2022"
   avatar           : "profile.png"
-  bio              : "Workshop on Real World Experiment Design and Active Learning"
+  bio              : "Workshop on Adaptive Experimental Design and Active Learning in the Real World"
   #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
