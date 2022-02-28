@@ -11,7 +11,7 @@ redirect_from:
 #### <center> Submitted workshop, July 2022 @ICML</center> ####
 ------
 <p style="text-align: justify;">
-This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experiment design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experiment design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in using experiment design and active learning algorithms in emerging high impact applications, such as material design, computational biology, algorithm configuration, AutoML, crowdsourcing, citizen science, robotics, and more. </p>
+This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experimental design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in using experimental design and active learning algorithms in emerging high impact applications, such as materials design, computational biology, algorithm configuration, AutoML, crowdsourcing, citizen science, robotics, and more. </p>
 
 **Remark:** For more information, please see the ICML conference [website](https://icml.cc/Conferences/2022/Dates).
 
@@ -30,15 +30,13 @@ Talks
 
 Invited Speakers
 ------
-<!-- #* **[Shipra Agrawal](http://www.columbia.edu/~sa3305/)** (Columbia University)
-#* **[Anca Dragan](https://people.eecs.berkeley.edu/~anca/)** (UC Berkeley)
-#* **[Jennifer Listgarten](http://www.jennifer.listgarten.com/)** (UC Berkeley)
-#* **[José Miguel Hernández Lobato](https://jmhl.org/)** (University of Cambridge)
-#* **[Pietro Perona](http://www.vision.caltech.edu/Perona.html)** (Caltech)
-#* **[Tom Rainforth](http://www.robots.ox.ac.uk/~twgr/)** (University of Oxford)
-#* **[Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/)** (Carnegie Mellon University)
-#* **[Dorsa Sadigh](https://dorsa.fyi/)** (Stanford University)
-#* **[Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/)** (University of Toronto) -->
+* **[Caroline Uhler](https://www.carolineuhler.com/)** (MIT)
+* **[Jeff Schneider](https://www.cs.cmu.edu/~schneide/)** (CMU)
+* **[Jennifer Listgarten](http://www.jennifer.listgarten.com/)** (UC Berkeley)
+* **[Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/about.html)** (University of Washington)
+* **[Ruth Misener](http://wp.doc.ic.ac.uk/rmisener/)** (Imperial College London)
+* **[Peter Frazier](https://people.orie.cornell.edu/pfrazier/)** (Cornell)
+* **(Tentative) [Christopher Langmead](https://www.cs.cmu.edu/~cjl/)** (Amgen, Inc. and CMU)
 
 Call for Submissions & Important Dates
 ------
@@ -55,7 +53,7 @@ Organizers
 ------
 * **[Mojmir Mutny](https://mojmirmutny.github.io)** (ETH Zurich)
 * **[Ilija Bogunovic](https://ilijabogunovic.com)** (UCL)
-* **[Willie Neiswanger](https://www.cs.cmu.edu/~wdn/)** (Stanford)
+* **[Willie Neiswanger](https://willieneis.github.io/)** (Stanford)
 * **[Stefano Ermon](https://cs.stanford.edu/~ermon/)** (Stanford)
 * **[Yisong Yue](http://www.yisongyue.com/)** (Caltech)
 * **[Andreas Krause](https://las.inf.ethz.ch/krausea)** (ETH Zurich)
