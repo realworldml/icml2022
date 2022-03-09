@@ -36,7 +36,7 @@ Invited Speakers
 * **[Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/about.html)** (University of Washington)
 * **[Ruth Misener](http://wp.doc.ic.ac.uk/rmisener/)** (Imperial College London)
 * **[Peter Frazier](https://people.orie.cornell.edu/pfrazier/)** (Cornell)
-* **(Tentative) [Christopher Langmead](https://www.cs.cmu.edu/~cjl/)** (Amgen, Inc. and CMU)
+* **[Christopher Langmead](https://www.cs.cmu.edu/~cjl/)** (Amgen, Inc. and CMU)
 
 Call for Submissions & Important Dates
 ------
