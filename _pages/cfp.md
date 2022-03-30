@@ -9,8 +9,8 @@ sitemap: false
 Important Dates
 ----------------
 * **Submission system opens**: April 20th 2022 11:59 PM (AoE time) [OpenReview](...)
-* **Submission deadline**: June 3r 2022 11:59 PM (AoE time)
-* **Author notification**: June 13st 2022  11:59 PM (AoE time)
+* **Submission deadline**: June 3rd 2022 11:59 PM (AoE time)
+* **Author notification**: June 13th 2022  11:59 PM (AoE time)
 * **Lightning Talk deadline (spotlight talks)**: TBA
 * **Camera ready date**: TBA
 * **Workshop day**: TBA

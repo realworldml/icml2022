@@ -6,11 +6,9 @@ author_profile: true
 
 feature_row:
   - image_path: organizer-images/avatar-full.jpg
-    alt: "Mojmir"
     title: "Mojmir Mutny"
     excerpt:
   - image_path: organizer-images/ilija.jpeg
-    alt: "Mojmir"
     title: "Ilija Bogunovic"
     excerpt: ""
   - image_path: organizer-images/willie.jpg

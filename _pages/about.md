@@ -31,7 +31,7 @@ Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](/cfp/) for submission instructions.
 * **Submission deadline:** 3rd June 2022, 11:59 PM (AoE time)
-* **Notification of acceptance:** 13rd June 2022, 11:59 PM (AoE time)
+* **Notification of acceptance:** 13th June 2022, 11:59 PM (AoE time)
 
 **Best Student Paper Award:** We will be awarding best student paper award worth 1000 USD to the best paper selected by the reviewing committee.
 
