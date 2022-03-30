@@ -6,28 +6,40 @@ author_profile: true
 sitemap: false
 ---
 
-<!-- <p style="text-align: justify;">
-Now is the perfect time for experiment design and active learning methods to make serious headway on a variety of modern challenges and domains. For example, many experiment design tasks involve vast and unstructured search spaces (e.g., the number of potential drug-like molecules is estimated between 10^23 and 10^60), immense amounts of unlabeled data, costly experiments, constraints in the data collection process, the potential for massive parallelism in experimentation, and corrupted or disagreeing measurement outcomes. We are particularly interested in understanding the current issues preventing the broad application of experiment design and active learning methods to these challenges, as well as initial successes.</p> -->
-<!--<p style="text-align: justify;">-->
-<!--</p>-->
+Important Dates
+----------------
+* **Submission system opens**: April 20th 2022 11:59 PM (AoE time) [OpenReview](...)
+* **Submission deadline**: June 3r 2022 11:59 PM (AoE time)
+* **Author notification**: June 13st 2022  11:59 PM (AoE time)
+* **Lightning Talk deadline (spotlight talks)**: TBA
+* **Camera ready date**: TBA
+* **Workshop day**: TBA
 
-We welcome submissions of 4-6 pages (excluding references) in [JMLR Workshop and Proceedings format](https://www.overleaf.com/latex/templates/template-for-journal-of-machine-learning-research-jmlr-with-jmlr2e-dot-sty/vjcpxhvztrjn). Submissions should be non-anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. Papers should be submitted [here via EasyChair](https://easychair.org/cfp/realml-icml2020).
+The Call
+---------
+Whether in robotics, protein design, or physical sciences, one often faces decisions regarding which data to collect or which experiments to perform. There is thus a pressing need for algorithms and sampling strategies that make intelligent decisions about data collection processes that allow for data-efficient learning. Experimental design and active learning have been major research focuses within machine learning and statistics, aiming to answer both theoretical and algorithmic aspects of efficient data collection processes. The goal of this workshop is to identify missing links that hinder the direct application of these principled research ideas into practically relevant solutions. Progress in this area can provide immense benefits in using experimental design and active learning algorithms in emerging high-impact applications, such as materials design, computational biology, causal discovery, drug design, citizen science, and many more.
 
-[Note: the deadline has been **extended by one week**] The work should be submitted by **22nd June 2020, 11:59 PM (Anywhere on Earth)**.
+We welcome submissions of 4 page (excluding references) in [JMLR Workshop and Proceedings format](https://www.overleaf.com/latex/templates/template-for-journal-of-machine-learning-research-jmlr-with-jmlr2e-dot-sty/vjcpxhvztrjn). Submissions should be non-anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. Papers should be submitted via Openreview (Submission will open April 15).
 
 Technical topics of interest include (but are not limited to):
-* Large-scale and real-world experiment design (e.g. biological/molecular/drug design, physics, robotics, crowdsourcing, citizen science, algorithms, etc.) 
-* Efficient active learning and exploration
-* High-dimensional, scalable Bayesian and bandit optimization (e.g. contextual, multi-task)
-* Sample-efficient interactive learning, hypothesis and A\B testing
-* Corrupted or indirect measurements, multi-fidelity experimentation
-* Incorporating domain-knowledge such as physics
-* Safety and robustness during experimentation and of resulting designs
+- Large-scale and real-world experimental design
+(e.g. drug design, physics, robotics, material design, protein design, causal discovery)
+- Efficient active learning and exploration
+- High-dimensional, scalable Bayesian and bandit optimization (e.g. contextual, multi-task)
+- Sample-efficient interactive learning, hypothesis and A/B testing
+- Corrupted or indirect measurements, multi-fidelity experimentation
+- Domain-knowledge integration (e.g. from physics, chemistry, biology, etc.)
+- Safety and robustness during experimentation and of resulting designs
 
 
+Best Paper awared
+---------
+We will be awarding the best student paper award selected by a reviewing committee worth 1000 USD.
 
+
+<!--
 ## Camera-Ready Instructions
-Camera-ready papers should be at most 6 pages (excluding references and appendix), using the [customized JMLR template linked here](camera_ready_jmlr_tex_template.zip).
+Camera-ready papers should be at most 4 pages (excluding references and appendix), using the [customized JMLR template linked here](camera_ready_jmlr_tex_template.zip).
 All papers must be sent by **July 15, 2020, 11:59 PM (Anywhere on Earth)** to the following email address: realml.icml2020@gmail.com
 
 Note that there will be no archival proceedings. However, the camera-ready papers will be made available on the workshop website.
@@ -41,4 +53,4 @@ Here are the key details:
 * **Slide format:** Slides should be in PDF format.
 * **Submitting slides:** Slides must be sent by **July 15, 2020 (end of day, Anywhere on Earth)** to the following email address: realml.icml2020@gmail.com
 
-Note that we are hosting lightning talks in lieu of a poster session. However, for authors who wish to make and share a poster, we will provide a way for posters to be shared on our website. If you wish to do this, please email us at realml.icml2020@gmail.com.
+Note that we are hosting lightning talks in lieu of a poster session. However, for authors who wish to make and share a poster, we will provide a way for posters to be shared on our website. If you wish to do this, please email us at realml.icml2020@gmail.com. -->

@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  #- title: "Call for papers"
-  #  url: /cfp/
-  #- title: "Speakers"
-  #  url: /speakers/
+  - title: "Call for papers"
+    url: /cfp/
+  - title: "Speakers"
+    url: /speakers/
   #- title: "Talks"
   #  url: /talks/
   #- title: "Schedule"
