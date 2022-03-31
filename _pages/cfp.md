@@ -8,7 +8,7 @@ sitemap: false
 
 Important Dates
 ----------------
-* **Submission system opens**: April 20th 2022 11:59 PM (AoE time) [OpenReview](...)
+* **Submission system opens**: April 20th 2022 11:59 PM (AoE time)  [Submission page](#link){: .btn .btn--warning .btn--large .align-right}
 * **Submission deadline**: June 3rd 2022 11:59 PM (AoE time)
 * **Author notification**: June 13th 2022  11:59 PM (AoE time)
 * **Lightning Talk deadline (spotlight talks)**: TBA
@@ -17,11 +17,11 @@ Important Dates
 
 The Call
 ---------
-<p style="text-align: justify;">
+{: .text-justify}
 Whether in robotics, protein design, or physical sciences, one often faces decisions regarding which data to collect or which experiments to perform. There is thus a pressing need for algorithms and sampling strategies that make intelligent decisions about data collection processes that allow for data-efficient learning. Experimental design and active learning have been major research focuses within machine learning and statistics, aiming to answer both theoretical and algorithmic aspects of efficient data collection processes. The goal of this workshop is to identify missing links that hinder the direct application of these principled research ideas into practically relevant solutions. Progress in this area can provide immense benefits in using experimental design and active learning algorithms in emerging high-impact applications, such as materials design, computational biology, causal discovery, drug design, citizen science, and many more.
-</p>
 
-We welcome submissions of 4 page (excluding references) in [JMLR Workshop and Proceedings format](https://www.overleaf.com/latex/templates/template-for-journal-of-machine-learning-research-jmlr-with-jmlr2e-dot-sty/vjcpxhvztrjn). Submissions should be non-anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. Papers should be submitted via Openreview (Submission will open April 20th).
+{: .text-justify}
+We welcome submissions of 4-6 pages (excluding references) in [JMLR Workshop and Proceedings format](https://www.overleaf.com/latex/templates/template-for-journal-of-machine-learning-research-jmlr-with-jmlr2e-dot-sty/vjcpxhvztrjn). Submissions should be non-anonymous. All accepted papers will be presented as posters (recently published or under-review work is also welcome). There will be no archival proceedings, however, the accepted papers will be made available online on the workshop website. Papers should be submitted via Openreview (Submission will open April 20th).
 
 Technical topics of interest include (but are not limited to):
 - Large-scale and real-world experimental design
