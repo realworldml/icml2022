@@ -6,22 +6,22 @@ author_profile: true
 
 feature_row:
   - image_path: organizer-images/avatar-full.jpg
-    title: "Mojmir Mutny"
+    title: <a href="https://mojmirmutny.github.io">Mojmir Mutny</a>
     excerpt:
   - image_path: organizer-images/ilija.jpeg
-    title: "Ilija Bogunovic"
+    title: <a href="http://ilijabogunovic.com">Ilija Bogunovic</a>
     excerpt: ""
   - image_path: organizer-images/willie.jpg
-    title: "Willie Neiswanger"
+    title: <a href="https://www.cs.cmu.edu/~wdn/">Willie Neiswanger</a>
     excerpt: ""
   - image_path: organizer-images/stefano.jpg
-    title: "Stefano Ermon"
+    title: <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>
     excerpt: ""
   - image_path: organizer-images/yisong.jpg
-    title: "Yisong Yue"
+    title: <a href="http://www.yisongyue.com/">Yisong Yue</a>
     excerpt: ""
   - image_path: organizer-images/krause.jpeg
-    title: "Andreas Krause"
+    title: <a href="https://las.inf.ethz.ch/krausea">Andreas Krause</a>
     excerpt: ""
 
 
@@ -29,11 +29,3 @@ feature_row:
 
 
 {% include feature_row %}
-
-
-* **[Mojmir Mutny](https://mojmirmutny.github.io)** (ETH Zurich)
-* **[Ilija Bogunovic](https://ilijabogunovic.com)** (UCL)
-* **[Willie Neiswanger](https://www.cs.cmu.edu/~wdn/)** (Stanford)
-* **[Stefano Ermon](https://cs.stanford.edu/~ermon/)** (Stanford)
-* **[Yisong Yue](http://www.yisongyue.com/)** (Caltech)
-* **[Andreas Krause](https://las.inf.ethz.ch/krausea)** (ETH Zurich)
