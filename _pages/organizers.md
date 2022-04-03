@@ -7,13 +7,13 @@ author_profile: true
 feature_row:
   - image_path: organizer-images/mojmir.jpg
     title: <a href="https://mojmirmutny.github.io">Mojmir Mutny</a>
-    excerpt: "     "
+    excerpt: "-     "
   - image_path: organizer-images/ilija.jpg
     title: <a href="http://ilijabogunovic.com">Ilija Bogunovic</a>
-    excerpt: "     "
+    excerpt: "-     "
   - image_path: organizer-images/willie.jpg
     title: <a href="https://www.cs.cmu.edu/~wdn/">Willie Neiswanger</a>
-    excerpt: "     "
+    excerpt: "-     "
   - image_path: organizer-images/stefano.jpg
     title: <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>
     excerpt: "     "
@@ -28,4 +28,4 @@ feature_row:
 ---
 
 
-{% include feature_row type="center" %}
+{% include feature_row %}
