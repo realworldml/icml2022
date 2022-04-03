@@ -6,22 +6,22 @@ author_profile: true
 
 feature_row:
   - image_path: organizer-images/mojmir.jpg
-    title: <a href="https://mojmirmutny.github.io">Mojmir Mutny</a>
+    title: <center> <a href="https://mojmirmutny.github.io">Mojmir Mutny</a></center>
     excerpt: "&nbsp;     "
   - image_path: organizer-images/ilija.jpg
-    title: <a href="http://ilijabogunovic.com">Ilija Bogunovic</a>
+    title: <center> <a href="http://ilijabogunovic.com">Ilija Bogunovic</a></center>
     excerpt: "&nbsp;     "
   - image_path: organizer-images/willie.jpg
-    title: <a href="https://www.cs.cmu.edu/~wdn/">Willie Neiswanger</a>
+    title: <center> <a href="https://www.cs.cmu.edu/~wdn/">Willie Neiswanger</a> </center>
     excerpt: "&nbsp;     "
   - image_path: organizer-images/stefano.jpg
-    title: <a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a>
+    title: <center><a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a></center>
     excerpt: "&nbsp;     "
   - image_path: organizer-images/yisong.jpg
-    title: <a href="http://www.yisongyue.com/">Yisong Yue</a>
+    title: <center> <a href="http://www.yisongyue.com/">Yisong Yue</a></center>
     excerpt: "&nbsp;     "
   - image_path: organizer-images/andreas.jpg
-    title: <a href="https://las.inf.ethz.ch/krausea">Andreas Krause</a>
+    title: <center><a href="https://las.inf.ethz.ch/krausea">Andreas Krause</a></center>
     excerpt: "&nbsp;     "
 
 
