@@ -10,8 +10,8 @@ redirect_from:
 ---
 #### <center> ICML workshop, July 2022 @ICML</center> ####
 ------
-{: .text-justify}
 
+{: .text-justify}
 This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experimental design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in using experimental design and active learning algorithms in emerging high impact applications, such as materials design, computational biology, algorithm configuration, AutoML, crowdsourcing, citizen science, robotics, and more.
 
 
