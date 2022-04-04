@@ -18,7 +18,7 @@ Important Dates
 The Call
 ---------
 
-{: .text-justify} 
+{: .text-justify}
 Whether in robotics, protein design, or physical sciences, one often faces decisions regarding which data to collect or which experiments to perform. There is thus a pressing need for algorithms and sampling strategies that make intelligent decisions about data collection processes that allow for data-efficient learning. Experimental design and active learning have been major research focuses within machine learning and statistics, aiming to answer both theoretical and algorithmic aspects of efficient data collection processes. The goal of this workshop is to identify missing links that hinder the direct application of these principled research ideas into practically relevant solutions. Progress in this area can provide immense benefits in using experimental design and active learning algorithms in emerging high-impact applications, such as materials design, computational biology, causal discovery, drug design, citizen science, etc.
 
 {: .text-justify}
@@ -33,6 +33,7 @@ Technical topics of interest include (but are not limited to):
 - Corrupted or indirect measurements, multi-fidelity experimentation
 - Domain-knowledge integration (e.g. from physics, chemistry, biology, etc.)
 - Safety and robustness during experimentation and of resulting designs
+- Experiment design in the context of Reinforcement Learning 
 
 
 Best Paper award
