@@ -38,7 +38,7 @@ Technical topics of interest include (but are not limited to):
 
 Best Paper award
 ---------
-We will be awarding the best student paper award selected by a reviewing committee worth 1000 USD.
+We will be awarding *best student paper award* selected by a reviewing committee worth 1000 USD.
 
 
 <!--
