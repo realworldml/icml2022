@@ -8,28 +8,26 @@ sitemap: false
 
 feature_row_custom:
   - image_path: speaker-images/caroline-res.jpg
-    title: <center> <a href="https://www.carolineuhler.com/">Caroline Uhler</a></center> &nbsp;
+    title: <center> <a href="https://www.carolineuhler.com/">Caroline <br> Uhler</a></center>
     excerpt: "MIT"
   - image_path: speaker-images/jeff-res.jpg
-    title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff Schneider</a></center>
+    title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff <br> Schneider</a></center>
     excerpt: "CMU"
   - image_path: speaker-images/jenn-res.jpg
-    title: <center> <a href="http://www.jennifer.listgarten.com/">Jennifer Listgarten</a> </center>
+    title: <center> <a href="http://www.jennifer.listgarten.com/">Jennifer <br> Listgarten</a> </center>
     excerpt: "UC Berkley "
   - image_path: speaker-images/kevin-res.jpg
-    title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin Jamieson</a></center>
+    title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin <br> Jamieson</a></center>
     excerpt: "University of Washington"
   - image_path: speaker-images/ruth-res.jpg
-    title: <center> <a href="http://wp.doc.ic.ac.uk/rmisener/">Ruth Misener</a></center> &nbsp;
+    title: <center> <a href="http://wp.doc.ic.ac.uk/rmisener/">Ruth <br> Misener</a></center>
     excerpt: "Imperial College London"
   - image_path: speaker-images/peter-res.jpg
-    title: <center><a href="https://people.orie.cornell.edu/pfrazier/">Peter Frazier</a></center> &nbsp;
+    title: <center><a href="https://people.orie.cornell.edu/pfrazier/">Peter <br> Frazier</a></center>
     excerpt: "Cornell"
   - image_path: speaker-images/amgen-res.jpg
-    title: <center><a href="https://www.cs.cmu.edu/~cjl/">Christopher Langmead</a></center>
+    title: <center><a href="https://www.cs.cmu.edu/~cjl/">Christopher <br> Langmead</a></center>
     excerpt: "Amgen, Inc. and CMU"
-
-
 
 ---
 
