@@ -33,7 +33,7 @@ Technical topics of interest include (but are not limited to):
 - Corrupted or indirect measurements, multi-fidelity experimentation
 - Domain-knowledge integration (e.g. from physics, chemistry, biology, etc.)
 - Safety and robustness during experimentation and of resulting designs
-- Experiment design in the context of Reinforcement Learning 
+- Experiment design/active learning in Reinforcement Learning
 
 
 Best Paper award
