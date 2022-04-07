@@ -17,9 +17,6 @@ feature_row_custom:
   - image_path: speaker-images/jeff-res.jpg
     title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff <br> Schneider</a></center>
     excerpt: "CMU"
-  - image_path: speaker-images/jenn-res.jpg
-    title: <center> <a href="http://www.jennifer.listgarten.com/">Jennifer <br> Listgarten</a> </center>
-    excerpt: "UC Berkley "
   - image_path: speaker-images/kevin-res.jpg
     title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin <br> Jamieson</a></center>
     excerpt: "University of Washington"
@@ -50,14 +47,6 @@ This workshop aims to bring together researchers from academia and industry to d
 Invited Speakers
 ------
 {% include feature_row_custom%}
-
-<!-- * **[Caroline Uhler](https://www.carolineuhler.com/)** (MIT)
-* **[Jeff Schneider](https://www.cs.cmu.edu/~schneide/)** (CMU)
-* **[Jennifer Listgarten](http://www.jennifer.listgarten.com/)** (UC Berkeley)
-* **[Kevin Jamieson](https://homes.cs.washington.edu/~jamieson/about.html)** (University of Washington)
-* **[Ruth Misener](http://wp.doc.ic.ac.uk/rmisener/)** (Imperial College London)
-* **[Peter Frazier](https://people.orie.cornell.edu/pfrazier/)** (Cornell)
-* **[Christopher Langmead](https://www.cs.cmu.edu/~cjl/)** (Amgen, Inc. and CMU) -->
 
 Call for Submissions & Important Dates
 ------

@@ -13,9 +13,6 @@ feature_row_custom:
   - image_path: speaker-images/jeff-res.jpg
     title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff <br> Schneider</a></center>
     excerpt: "CMU"
-  - image_path: speaker-images/jenn-res.jpg
-    title: <center> <a href="http://www.jennifer.listgarten.com/">Jennifer <br> Listgarten</a> </center>
-    excerpt: "UC Berkley "
   - image_path: speaker-images/kevin-res.jpg
     title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin <br> Jamieson</a></center>
     excerpt: "University of Washington"
