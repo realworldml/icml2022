@@ -13,6 +13,9 @@ feature_row_custom:
   - image_path: speaker-images/jeff-res.jpg
     title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff <br> Schneider</a></center>
     excerpt: "CMU"
+  - image_path: speaker-images/ava-res.jpg
+    title: <center> <a href="https://www.microsoft.com/en-us/research/people/avasoleimany/">Ava <br> Soleimany</a></center>
+    excerpt: "Microsoft Research"  
   - image_path: speaker-images/kevin-res.jpg
     title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin <br> Jamieson</a></center>
     excerpt: "University of Washington"
@@ -25,6 +28,8 @@ feature_row_custom:
   - image_path: speaker-images/amgen-res.jpg
     title: <center><a href="https://www.cs.cmu.edu/~cjl/">Christopher <br> Langmead</a></center>
     excerpt: "Amgen, Inc. and CMU"
+
+
 
 ---
 
