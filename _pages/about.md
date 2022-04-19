@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <center>Workshop on Adaptive Experimental Design and Active Learning in the Real World at ICML 2022</center>
+title: <center>Adaptive Experimental Design and Active Learning in the Real World</center>
 excerpt: "About"
 sitemap: false
 author_profile: true
@@ -34,9 +34,8 @@ feature_row_custom:
     excerpt: "Amgen, Inc. and CMU"
 
 
-
 ---
-#### <center> ICML workshop, July 2022 @ICML</center> ####
+#### <center> ICML workshop, July 2022, Baltimore, US </center> ####
 ------
 
 {: .text-justify}
