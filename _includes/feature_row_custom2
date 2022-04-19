@@ -1,0 +1,51 @@
+{% include base_path %}
+
+{% if include.id %}
+  {% assign feature_row2 = page.[include.id] %}
+{% else %}
+  {% assign feature_row_custom2 = page.feature_row_custom2 %}
+{% endif %}
+
+<div class="feature__wrapper2">
+
+  {% for f2 in feature_row_custom2 %}
+
+    {% if f2.url contains "://" %}
+      {% capture f_url %}{{ f2.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f2.url | prepend: base_path }}{% endcapture %}
+    {% endif %}
+
+    <div class="featurecustom2__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item2">
+        {% if f2.image_path2 %}
+
+          <div class="archive__item-teaser2">
+            <img src=
+              {% if f2.image_path2 contains "://" %}
+                "{{ f2.image_path2 }}"
+              {% else %}
+                "{{ f2.image_path2 | prepend: "/images/" | prepend: base_path }}"
+              {% endif %}
+            alt="{% if f2.alt %}{{ f2.alt }}{% endif %}">
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body2">
+          {% if f2.title2 %}
+            <h5 class="archive__item-title">{{ f2.title2 }}</h5>
+          {% endif %}
+        </div>
+
+        {% if f2.excerpt2 %}
+          <div class="archive__item-excerpt">
+            {{ f2.excerpt2 | markdownify }}
+          </div>
+        {% endif %}
+
+
+      </div>
+    </div>
+  {% endfor %}
+
+</div>

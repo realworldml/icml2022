@@ -34,6 +34,28 @@ feature_row_custom:
     excerpt: "Amgen, Inc. and CMU"
 
 
+feature_row_custom2:
+  - image_path2: organizer-images/mojmir.jpg
+    title2: <center> <a href="https://mojmirmutny.github.io">Mojmir<br>  Mutny</a></center>
+    excerpt2: "<center>ETH Zurich</center>"
+  - image_path2: organizer-images/ilija.jpg
+    title2: <center> <a href="http://ilijabogunovic.com">Ilija<br> Bogunovic</a></center>
+    excerpt2: "<center>UCL</center>"
+  - image_path2: organizer-images/willie.jpg
+    title2: <center> <a href="https://www.cs.cmu.edu/~wdn/">Willie<br>  Neiswanger</a> </center>
+    excerpt2: "<center>Stanford</center>"
+  - image_path2: organizer-images/stefano.jpg
+    title2: <center><a href="https://cs.stanford.edu/~ermon/">Stefano<br>  Ermon</a></center>
+    excerpt2: "<center>Stanford</center>"
+  - image_path2: organizer-images/yisong.jpg
+    title2: <center> <a href="http://www.yisongyue.com/">Yisong <br> Yue</a></center>
+    excerpt2: "<center>Caltech</center>"
+  - image_path2: organizer-images/andreas.jpg
+    title2: <center><a href="https://las.inf.ethz.ch/krausea">Andreas <br> Krause</a></center>
+    excerpt2: "<center>ETH Zurich</center>"
+
+
+
 ---
 #### <center> ICML workshop, July 2022, Baltimore, US </center> ####
 ------
@@ -70,9 +92,12 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 
 Organizers
 ------
-* **[Mojmir Mutny](https://mojmirmutny.github.io)** (ETH Zurich)
+<!-- * **[Mojmir Mutny](https://mojmirmutny.github.io)** (ETH Zurich)
 * **[Ilija Bogunovic](https://ilijabogunovic.com)** (UCL)
 * **[Willie Neiswanger](https://willieneis.github.io/)** (Stanford)
 * **[Stefano Ermon](https://cs.stanford.edu/~ermon/)** (Stanford)
 * **[Yisong Yue](http://www.yisongyue.com/)** (Caltech)
-* **[Andreas Krause](https://las.inf.ethz.ch/krausea)** (ETH Zurich)
+* **[Andreas Krause](https://las.inf.ethz.ch/krausea)** (ETH Zurich) -->
+
+
+{% include feature_row_custom2%}
