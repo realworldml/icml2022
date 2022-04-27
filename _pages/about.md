@@ -57,16 +57,16 @@ feature_row_custom2:
 
 
 ---
-#### <center> ICML workshop, July 2022, Baltimore, US </center> ####
+### <center> ICML Workshop, July 2022, Baltimore, US </center> ###
 ------
 
 {: .text-justify}
-This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experimental design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in using experimental design and active learning algorithms in emerging high impact applications, such as materials design, computational biology, algorithm configuration, AutoML, crowdsourcing, citizen science, robotics, and more.
+This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experimental design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in emerging high impact applications, such as materials design, computational biology, algorithm configuration, AutoML, crowdsourcing, citizen science, robotics, reinforcement learning, and more.
 
 
 **Remark:** For more information, please see the ICML conference [website](https://icml.cc/Conferences/2022/Dates).
 
-**Format:** This is an in-person workshop in Baltimore, US with in person poster session.
+**Format:** This is an in-person workshop in Baltimore, US, with an in-person poster session. Remote participation will also be possible (this will be a hybrid event).
 
 Invited Speakers
 ------
@@ -78,7 +78,7 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 * **Submission deadline:** 3rd June 2022, 11:59 PM (AoE time)
 * **Notification of acceptance:** 13th June 2022, 11:59 PM (AoE time)
 
-**Best Student Paper Award:** We will be awarding best student paper award worth 1000 USD to the best paper selected by the reviewing committee.
+**Best Student Paper Award:** We will be awarding a *best student paper award*, worth **1000 USD**, to the best paper selected by a reviewing committee.
 
 <!-- * [Camera-ready paper](cfp.md#camera-ready-instructions) submission deadline: 15 July 2020, 11:59 PM (AoE time)
 * [Lightning talk slides](cfp.md#lightning-talk-instructions) submission deadline: 15 July 2020, 11:59 PM (AoE time)
