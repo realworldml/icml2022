@@ -57,7 +57,7 @@ feature_row_custom2:
 
 
 ---
-### <center> ICML Workshop, July 2022, Baltimore, US </center> ###
+## <center> ICML Workshop, July 2022, Baltimore, US </center> ##
 ------
 
 {: .text-justify}
