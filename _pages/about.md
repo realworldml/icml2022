@@ -36,7 +36,7 @@ feature_row_custom:
 
 feature_row_custom2:
   - image_path2: organizer-circles/mojmir-circle.png
-    title2: <center> <a href="https://mojmirmutny.github.io">Mojmir<br>  Mutny</a></center>
+    title2: <center> <a href="https://mojmirmutny.github.io">Mojmir<br> Mutny</a></center>
     excerpt2: "<center>ETH Zurich</center>"
   - image_path2: organizer-circles/ilija-circle.png
     title2: <center> <a href="http://ilijabogunovic.com">Ilija<br> Bogunovic</a></center>
