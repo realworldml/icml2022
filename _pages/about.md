@@ -57,7 +57,7 @@ feature_row_custom2:
 
 
 ---
-## <center> ICML Workshop, July 2022, Baltimore, US </center> ##
+### <center> ICML Workshop, July 2022, Baltimore, US </center> ###
 ------
 
 {: .text-justify}
@@ -78,7 +78,7 @@ Please see the [Call for papers](/cfp/) for submission instructions.
 * **Submission deadline:** 3rd June 2022, 11:59 PM (AoE time)
 * **Notification of acceptance:** 13th June 2022, 11:59 PM (AoE time)
 
-**Best Student Paper Award:** We will be awarding a *best student paper award*, worth **1000 USD**, to the best paper selected by a reviewing committee.
+**Best Student Paper Award:** A *best student paper award*, worth **1000 USD**, will be awarded to the best paper selected by a reviewing committee.
 
 <!-- * [Camera-ready paper](cfp.md#camera-ready-instructions) submission deadline: 15 July 2020, 11:59 PM (AoE time)
 * [Lightning talk slides](cfp.md#lightning-talk-instructions) submission deadline: 15 July 2020, 11:59 PM (AoE time)
