@@ -11,47 +11,47 @@ redirect_from:
 
 
 feature_row_custom:
-  - image_path: circle/caroline-circle.png
+  - image_path: speaker-circles/caroline-circle.png
     title: <center> <a href="https://www.carolineuhler.com/">Caroline <br> Uhler</a></center>
     excerpt: "MIT"
-  - image_path: circle/jeff-circle.png
+  - image_path: speaker-circles/jeff-circle.png
     title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff <br> Schneider</a></center>
     excerpt: "CMU"
-  - image_path: circle/ava-circle.png
+  - image_path: speaker-circles/ava-circle.png
     title: <center> <a href="https://www.microsoft.com/en-us/research/people/avasoleimany/">Ava <br> Soleimany</a></center>
     excerpt: "Microsoft Research"  
-  - image_path: circle/kevin-circle.png
+  - image_path: speaker-circles/kevin-circle.png
     title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin <br> Jamieson</a></center>
     excerpt: "University of Washington"
-  - image_path: circle/ruth-circle.png
+  - image_path: speaker-circles/ruth-circle.png
     title: <center> <a href="http://wp.doc.ic.ac.uk/rmisener/">Ruth <br> Misener</a></center>
     excerpt: "Imperial College London"
-  - image_path: circle/peter-circle.png
+  - image_path: speaker-circles/peter-circle.png
     title: <center><a href="https://people.orie.cornell.edu/pfrazier/">Peter <br> Frazier</a></center>
     excerpt: "Cornell"
-  - image_path: circle/christopher-circle.png
+  - image_path: speaker-circles/christopher-circle.png
     title: <center><a href="https://www.cs.cmu.edu/~cjl/">Christopher <br> Langmead</a></center>
     excerpt: "Amgen, Inc. and CMU"
 
 
 feature_row_custom2:
-  - image_path2: organizer-images/mojmir.jpg
+  - image_path2: organizer-circles/mojmir-circle.png
     title2: <center> <a href="https://mojmirmutny.github.io">Mojmir<br>  Mutny</a></center>
     excerpt2: "<center>ETH Zurich</center>"
-  - image_path2: organizer-images/ilija.jpg
+  - image_path2: organizer-circles/ilija-circle.png
     title2: <center> <a href="http://ilijabogunovic.com">Ilija<br> Bogunovic</a></center>
     excerpt2: "<center>UCL</center>"
-  - image_path2: organizer-images/willie.jpg
-    title2: <center> <a href="https://www.cs.cmu.edu/~wdn/">Willie<br>  Neiswanger</a> </center>
+  - image_path2: organizer-circles/willie-circle.png
+    title2: <center> <a href="https://willieneis.github.io/">Willie<br> Neiswanger</a> </center>
     excerpt2: "<center>Stanford</center>"
-  - image_path2: organizer-images/stefano.jpg
-    title2: <center><a href="https://cs.stanford.edu/~ermon/">Stefano<br>  Ermon</a></center>
+  - image_path2: organizer-circles/stefano-circle.png
+    title2: <center><a href="https://cs.stanford.edu/~ermon/">Stefano<br> Ermon</a></center>
     excerpt2: "<center>Stanford</center>"
-  - image_path2: organizer-images/yisong.jpg
-    title2: <center> <a href="http://www.yisongyue.com/">Yisong <br> Yue</a></center>
+  - image_path2: organizer-circles/yisong-circle.png
+    title2: <center> <a href="http://www.yisongyue.com/">Yisong<br> Yue</a></center>
     excerpt2: "<center>Caltech</center>"
-  - image_path2: organizer-images/andreas.jpg
-    title2: <center><a href="https://las.inf.ethz.ch/krausea">Andreas <br> Krause</a></center>
+  - image_path2: organizer-circles/andreas-circle.png
+    title2: <center><a href="https://las.inf.ethz.ch/krausea">Andreas<br> Krause</a></center>
     excerpt2: "<center>ETH Zurich</center>"
 
 

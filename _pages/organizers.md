@@ -12,7 +12,7 @@ feature_row:
     title: <center> <a href="http://ilijabogunovic.com">Ilija Bogunovic</a></center>
     excerpt: "<center>UCL</center>"
   - image_path: organizer-images/willie.jpg
-    title: <center> <a href="https://www.cs.cmu.edu/~wdn/">Willie Neiswanger</a> </center>
+    title: <center> <a href="https://willieneis.github.io/">Willie Neiswanger</a> </center>
     excerpt: "<center>Stanford</center>"
   - image_path: organizer-images/stefano.jpg
     title: <center><a href="https://cs.stanford.edu/~ermon/">Stefano Ermon</a></center>
