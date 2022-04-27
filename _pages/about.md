@@ -11,25 +11,25 @@ redirect_from:
 
 
 feature_row_custom:
-  - image_path: speaker-images/caroline-res.jpg
+  - image_path: circle/caroline-circle.png
     title: <center> <a href="https://www.carolineuhler.com/">Caroline <br> Uhler</a></center>
     excerpt: "MIT"
-  - image_path: speaker-images/jeff-res.jpg
+  - image_path: circle/jeff-circle.png
     title: <center> <a href="https://www.cs.cmu.edu/~schneide/">Jeff <br> Schneider</a></center>
     excerpt: "CMU"
-  - image_path: speaker-images/ava-res.jpg
+  - image_path: circle/ava-circle.png
     title: <center> <a href="https://www.microsoft.com/en-us/research/people/avasoleimany/">Ava <br> Soleimany</a></center>
     excerpt: "Microsoft Research"  
-  - image_path: speaker-images/kevin-res.jpg
+  - image_path: circle/kevin-circle.png
     title: <center><a href="https://homes.cs.washington.edu/~jamieson/about.html">Kevin <br> Jamieson</a></center>
     excerpt: "University of Washington"
-  - image_path: speaker-images/ruth-res.jpg
+  - image_path: circle/ruth-circle.png
     title: <center> <a href="http://wp.doc.ic.ac.uk/rmisener/">Ruth <br> Misener</a></center>
     excerpt: "Imperial College London"
-  - image_path: speaker-images/peter-res.jpg
+  - image_path: circle/peter-circle.png
     title: <center><a href="https://people.orie.cornell.edu/pfrazier/">Peter <br> Frazier</a></center>
     excerpt: "Cornell"
-  - image_path: speaker-images/amgen-res.jpg
+  - image_path: circle/christopher-circle.png
     title: <center><a href="https://www.cs.cmu.edu/~cjl/">Christopher <br> Langmead</a></center>
     excerpt: "Amgen, Inc. and CMU"
 
