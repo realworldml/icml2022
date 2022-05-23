@@ -57,7 +57,7 @@ feature_row_custom2:
 
 
 ---
-### <center> ICML Workshop, July 2022, Baltimore, US </center> ###
+### <center> ICML Workshop - July 22, 2022 - Baltimore, USA </center> ###
 ------
 
 {: .text-justify}
@@ -66,7 +66,7 @@ This workshop aims to bring together researchers from academia and industry to d
 
 **Remark:** For more information, please see the ICML conference [website](https://icml.cc/Conferences/2022/Dates).
 
-**Format:** This is an in-person workshop in Baltimore, US, with an in-person poster session. Remote participation will also be possible (this will be a hybrid event).
+**Format:** This is an in-person workshop in Baltimore, USA, with an in-person poster session. Remote participation will also be possible (this will be a hybrid event).
 
 Invited Speakers
 ------
