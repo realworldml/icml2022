@@ -100,6 +100,6 @@ Organizers
 * **[Andreas Krause](https://las.inf.ethz.ch/krausea)** (ETH Zurich) -->
 
 
-{% include feature_row_custom2%}
-
 **Contact:** realml.icml2022@gmail.com
+
+{% include feature_row_custom2%}
