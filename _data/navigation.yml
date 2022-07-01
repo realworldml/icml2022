@@ -4,12 +4,12 @@ main:
     url: /about/
   - title: "Call for papers"
     url: /cfp/
+  - title: "Schedule"
+    url: /schedule/
   - title: "Speakers"
     url: /speakers/
   #- title: "Talks"
   #  url: /talks/
-  #- title: "Schedule"
-  #  url: /schedule/
   - title: "Organizers"
     url: /organizers/
   - title: "Past Workshops: ICML 2020"
