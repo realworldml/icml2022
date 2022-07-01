@@ -7,7 +7,7 @@ author_profile: true
 
 **Time (in EDT)** | **Session**
 ------------ | ------------
-**09:10 AM - 09:20 AM**  <a ></a> |	**Opening Statements**
+**09:10 AM - 09:20 AM**  <a ></a> |	**Opening Remarks**
 **09:20 AM - 10:00 AM**  <a ></a> |	(Invited Talk) **Jeff Schneider**
 **10:00 AM - 10:40 AM**  <a ></a> |	(Invited Talk) **Ava Soleimany**
 **10:40 AM - 11:00 AM**  <a ></a> |	**Coffee Break**
