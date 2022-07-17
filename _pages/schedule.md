@@ -7,7 +7,7 @@ author_profile: true
 
 **Time (in EDT)** | **Session**
 ------------ | ------------
-**08:40 AM - 09:10 AM**  <a ></a> |	Doors open and setup.
+**08:40 AM - 09:10 AM**  <a ></a> |	Doors Open and Workshop/Poster Setup
 **09:10 AM - 09:20 AM**  <a ></a> |	**Opening Remarks**
 **09:20 AM - 10:00 AM**  <a ></a> |	(Invited Talk) **Jeff Schneider**
 **10:00 AM - 10:40 AM**  <a ></a> |	(Invited Talk) **Ava Soleimany**
