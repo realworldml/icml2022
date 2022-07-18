@@ -5,50 +5,76 @@ permalink: /accepted/
 author_profile: true
 ---
 
-**Paper** | **Authors** | **Slides**
+**Paper** | **Authors** | **Remark**
 ------------ | ------------
-[Task-Agnostic Sample Design for Machine Learning](/files/cr/3_sampling_kailkhura.pdf) | Bhavya Kailkhura, Jayaraman J. Thiagarajan, Qunwei Li, Jize Zhang, Yi Zhou, Peer-Timo Bremer | [pdf](/files/slides/3_RealML_kailkhura.pdf)
-[BOSH: Bayesian Optimization by Sampling Hierarchically](/files/cr/4_BOSH_ICML_Workshop_FINAL.pdf) | Henry B. Moss, David S. Leslie, Paul Rayson | [pdf](/files/slides/4_BOSH_2min.pdf)
-[Bypassing the Monster: A Faster and Simpler Optimal Algorithm for Contextual Bandits under Realizability](/files/cr/5_Bypassing_the_Monster_-_RealML_@_ICML_2020.pdf) | David Simchi-Levi, Yunzong Xu | [pdf](/files/slides/5_bypassing_the_monster_slides.pdf)
-[Active Learning for Air Quality Station Deployment](/files/cr/6_RealMLICML2020_Camera-Ready_6.pdf) | S. Deepak Narayanan, Apoorv Agnihotri, Nipun Batra | [pdf](/files/slides/6_RealMLICML2020_Lightning_Slides_6.pdf)
-[Active Learning Using Discrepancy](/files/cr/7_cui_paper.pdf) | Zhenghang Cui, Issei Sato | [pdf](/files/slides/7_cui_slides.pdf)
-[A Large-scale Open Dataset for Bandit Algorithms](/files/cr/9_camera-ready_-_A_Large-scale_Open_Dataset_for_Bandit_Algorithms.pdf) | Yuta Saito, Shunsuke Aihara, Megumi Matsutani, Yusuke Narita | [pdf](/files/slides/9_slides_-_A_Large-scale_Open_Dataset_for_Bandit_Algorithms.pdf)
-[Max-value Entropy Search for Multi-Objective Bayesian Optimization](/files/cr/10_MESMO_icml_workshop.pdf) | Syrine Belakaria, Aryan Deshwal, Janardhan Rao Doppa | [pdf](/files/slides/10_2-mins-slides-icml-workshop.pdf)
-[Optimizing Discrete Spaces via Expensive Evaluations: A Learning to Search Framework](/files/cr/11_Discrete_BO_RealML_camera_ready.pdf) | Aryan Deshwal, Syrine Belakaria, Janardhan Rao, Alan Fern | [pdf](/files/slides/11_L2S_DISCO_slides.pdf)
-[Active Online Domain Adaptation](/files/cr/12_Active_Online_Domain_Adaptation__JMLR_6_pages_.pdf) | Yining Chen, Haipeng Luo, Tengyu Ma, Chicheng Zhang  | [pdf](/files/slides/12_ICML_2020_workshop_2min.pdf)
-[Using Active Learning for Assisted Short Answer Grading](/files/cr/14_Using_Active_Learning_for_Assisted_Short_Answer_Grading_cameraready.pdf) | Jeeveswaran Kishaan, Mohandass Muthuraja, Deebul Nair, Paul G. Ploger | [pdf](/files/slides/14_Using_Active_Learning_for_Assisted_Short_Answer_Grading_ICML_PRESENTATION.pdf)
-[An Improved Matrix Completion Algorithm For Categorical Variables: Application to Active Learning of Drug Responses](/files/cr/15_SunAndMurphyRevised.pdf) | Huangqingbo Sun, Robert F. Murphy | [pdf](/files/slides/15_An_Improved_Matrix_Completion_Algorithm_For_Categorical_Variables_Application_to_Active_Learning_of_Drug_Responses.pdf)
-[Black-Box Optimization with Local Generative Surrogates](/files/cr/16_lgso_realml_final.pdf) | Sergey Shirobokov, Vladislav Belavin, Michael Kagan, Andrey Ustyuzhanin, Atılım Güneş Baydin | [pdf](/files/slides/16_lgso_realml2020_talk_final.pdf)
-[Preference-Based Bayesian Optimization in High Dimensions with Human Feedback](/files/cr/17_RealML_workshop_2020_LineCoSpar.pdf) | Myra Cheng, Ellen Novoseller, Maegan Tucker, Richard Cheng, Joel Burdick, Yisong Yue | [pdf](/files/slides/17_RealML_LineCoSpar.pdf)
-[Sample-Efficient Optimization in the Latent Space of Deep Generative Models via Weighted Retraining](/files/cr/18_Weighted_Retraining_Paper.pdf) | Austin Tripp, Erik Daxberger, Jose Miguel Hernandez-Lobato | [pdf](/files/slides/18_Weighted_Retraining_Slides.pdf)
-[Optimal Batch Variance with Second-Order Marginals](/files/cr/19_optimal_batch_variance.pdf) | Zelda Mariet, Joshua Robinson, Jamie Smith, Suvrit Sra, Stefanie Jegelka | [pdf](/files/slides/19_optimal_batch_variance_slides.pdf)
-[A Hierarchical Approach to Scaling Batch Active Search Over Structured Data](/files/cr/20_HBBS_ICML_07_14_20_6pm.pdf) | Vivek Myers, Peyton Greenside | [pdf](/files/slides/20_HBBS_ICML_Workshop_Presentation_07_14_20_6pm.pdf)
-[Learning to Play Sequential Games versus Unknown Opponents](/files/cr/21_Learning_to_play_Sequential_Games.pdf) | Pier Giuseppe Sessa, Ilija Bogunovic, Maryam Kamgarpour, Andreas Krause | [pdf](/files/slides/21_Slides_Learning_to_Play_Sequential_Games.pdf)
-[Bayesian Optimization for Min Max Optimization](/files/cr/22_MinMaxOpt_Cameraready_20200715.pdf) | Dorina Weichert, Alexander Kister | [pdf](/files/slides/22_MinMaxOpt_Presentation_20200715.pdf)
-[Safe Reinforcement Learning in Constrained Markov Decision Processes](/files/cr/24_SNO_MDP_paper.pdf) | Akifumi Wachi, Yanan Sui | [pdf](/files/slides/24_SNO_MDP_slide.pdf)
-[Query-augmented Active Learning for Large-scale Clustering](/files/cr/25_ICML_workshop.pdf) | Yujia Deng, Yubai Yuan, Haoda Fu, Annie Qu | [pdf](/files/slides/25_ICML2020_workshop.pdf)
-[Stochastic Multiplayer Bandit Learning from Player-Dependent Feedback](/files/cr/26_stochastic_multiplayer_paper.pdf) | Zhi Wang, Manish Kumar Singh, Chicheng Zhang, Laurel D. Riek, Kamalika Chaudhuri | [pdf](/files/slides/26_stochastic_multiplayer_slides.pdf)
-[Cost-Efficient Online Hyperparameter Optimization](/files/cr/28_camera-ready.pdf) | Jingkang Wang, Mengye Ren, Ilija Bogunovic, Yuwen Xiong, Raquel Urtasun | [pdf](/files/slides/28_slide.pdf)
-[Cost-Aware Bayesian Optimization via Information Directed Sampling](/files/cr/29_Cost_Aware_BO_ICML_2020_Workshop.pdf) | Biswajit Paria, Willie Neiswanger, Ramina Ghods, Jeff Schneider, Barnabás Póczos | [pdf](/files/slides/29_icml_workshop_slides.pdf)
-[Promoting Fairness in Learned Models by Learning to Active Learn under Parity  Constraints](/files/cr/30_panda_realml_camera_ready.pdf) | Amr Sharaf, Hal Daumé III | [pdf](/files/slides/30_panda_presentation.pdf)
-[PareCO: Pareto-aware Channel Optimization for Slimmable Neural Networks](/files/cr/31_PareCO-realml-paper.pdf) | Ting-Wu Chin, Ari S. Morcos, Diana Marculescu | [pdf](/files/slides/31_PareCO-realml-slides.pdf)
-[Faster & More Reliable Tuning of Neural Networks: Bayesian Optimization with Importance Sampling](/files/cr/32_IBO_ICML_Workshop2020.pdf) | Setareh Ariafar, Zelda Mariet, Ehsan Elhamifar, Dana Brooksm, Jennifer Dy, Jasper Snoek | [pdf](/files/slides/32_ICML_2020_RealWorldWorkshop_IBO.pdf)
-[Active Continual Learning for Planning and Navigation](/files/cr/33_acl_qureshi2020.pdf) | Ahmed H. Qureshi, Yinglong Miao, Michael C. Yip | [pdf](/files/slides/33_acl_qureshi_slides2020.pdf)
-[Estimating α-Rank by Maximizing Information Gain](/files/cr/34_Estimating_alpha_rank_by_Maximizing_Information_Gain__ICML__2020_Workshop.pdf) | Tabish Rashid, Cheng Zhang, Kamil Ciosek | [pdf](/files/slides/34_Estimating_Rank_by_Maximising_Information_Gain_Slides.pdf)
-[Multi-task Bayesian Optimization via Gaussian Process Upper Confidence Bound](/files/cr/35_Camera_Ready_RealML.pdf) | Sihui Dai, Jialin Song, Yisong Yue | [pdf](/files/slides/35_mt_gp_ucb_ppt.pdf)
-[Efficient Active Learning for New Domains](/files/cr/36_efficient-active-learning-for-new-domains.pdf) | Kiri L. Wagstaff, Steven Lu | [pdf](/files/slides/36_realml-efficient-active-learning-for-new-domains.pdf)
-[Efficient Graph-Based Active Learning with Probit Likelihood via Gaussian Approximations](/files/cr/37_ICML_AL_Final_July15-Kevin.pdf) | Kevin Miller, Hao Li, Andrea L. Bertozzi | [pdf](/files/slides/37_ICML_Workshop_Slides.pdf)
-[Improved Regret Bounds for Agnostic Gaussian Process Bandits using Local Polynomial Estimators](/files/cr/38_Workshop__Non_Bayesian_GP_Bandits.pdf)| Shubhanshu Shekhar, Tara Javidi | [pdf](/files/slides/38_Presentation.pdf)
-[Sequential Design of Experiments with Unknown Covariates](/files/cr/39_Sequential_Experimental_Design_Unknown_Covariates.pdf) | Harvineet Singh, Rumi Chunara | [pdf](/files/slides/39_Seq_Exp_Design_Harvineet.pdf)
-[Efficient Black-Box Combinatorial Optimization](/files/cr/40_RealML_paper.pdf) | Hamid Dadkhahi, Karthikeyan Shanmugam, Jesus Rios, Payel Das | [pdf](/files/slides/40_RealML_slides.pdf)
-[Accelerating Online Reinforcement Learning with Offline Datasets](/files/cr/41_awac_icml_workshop.pdf) | Ashvin Nair,  Murtaza Dalal, Abhishek Gupta, Sergey Levine | [pdf](/files/slides/41_awac_realml_slides.pdf)
-[Assisted Robust Reward Design](/files/cr/42_assisted_robust_reward_cr.pdf) | Jerry Zhi-Yang He, Anca D. Dragan | [pdf](/files/slides/42_assisted_robust_reward_slides.pdf)
-[A Smoothed Analysis of Online Lasso for the Sparse Linear Contextual Bandit Problem](/files/cr/43_A_Smoothed_Analysis_of_Online_Lasso_for_the_Sparse_Linear_Contextual_Bandit_Problem.pdf) | Zhiyuan Liu, Huazheng Wang, Bo Waggoner, Youjian (Eugene) Liu, Lijun Chen | [pdf](/files/slides/43_ICMLworkshop_2minTalk.pdf)
-[Preference Learning for Real-World Multi-Objective Decision Making](/files/cr/44_realml_lin_paper.pdf) | Zhiyuan "Jerry" Lin, Adam Obeng, Eytan Bakshy | [pdf](/files/slides/44_realml_lin_slides.pdf)
-[Experimental Design for Bathymetry Editing](/files/cr/45_bathymetry-realworldml.pdf) | Julaiti Alafate, Yoav Freund, David T. Sandwell, Brook Tozer | [pdf](/files/slides/45_slides-bathymetry-realworldml-v2.pdf)
-[Testing RL with Planning for Demand Response in an Energy Social Game](/files/cr/46_ICML_experiment_prospectus_JMLR_format_sty.pdf) | Lucas Spangher, Adam Bouyamourn, Manan Khattar, Akaash Tawade , Akash Gokul, Alex Devonport, Costas Spanos | [pdf](/files/slides/46_RealML_presentation.pdf)
-[Batch Acquistion for Deep Bayesian Active Learning with Imperfect Oracles](/files/cr/47_final.pdf) | Pushkar Kolhe | [pdf](/files/slides/47_presentation.pdf)
-[Bayesian Active Drug Discovery](/files/cr/48_BADD_paper_workshop.pdf) | Yuanqing Wang, Manh Nguyen, Michael Retchin, John D. Chodera, Theofanis Karaletsos | [pdf](/files/slides/48_BADD_slides_workshop.pdf)
-[Active Learning under Label Shift](/files/cr/50_eric_alls_paper.pdf) | Eric Zhao, Anqi Liu, Animashree Anandkumar, Yisong Yue | [pdf](/files/slides/50_eric_alls_slides.pdf)
-[Learning Algorithms for Dynamic Pricing: A Comparative Study](/files/cr/51_dynamic_pricing_cr.pdf) | Chaitanya Amballa, Narendhar Gugulothu, Manu K. Gupta, Sanjay P. Bhat | [pdf](/files/slides/51_dynamic_pricing_slides.pdf)
-
+[Multi-Information Source Bayesian Optimization of Culture Media for Cellular Agriculture](/files/cr/paper2.pdf) |Zachary Cosenza, Raul Astudillo, Peter I. Frazier|
+[Information-theoretic Inducing Point Placement for High-throughput Bayesian Optimisation](/files/cr/paper3.pdf) |Henry Moss, Sebastian W. Ober, Victor Picheny|
+[A penalisation method for batch multi-objective Bayesian optimisation with application in heat exchanger design](/files/cr/paper4.pdf) |Andrei Paleyes, Henry Moss, Victor Picheny|
+[Sample Constrained Treatment Effect Estimation](/files/cr/paper6.pdf) |Raghavendra Addanki, David Arbour, Tung Mai, Cameron N Musco, Anup Rao|
+[Deep Active Learning for Regression Using $\epsilon$-weighted Hybrid Query Strategy](/files/cr/paper7.pdf) |Harsh Vardhan, Janos Sztipanovits|
+[GAUCHE: A Library for Gaussian Processes and Bayesian Optimisation in Chemistry](/files/cr/paper8.pdf) |Ryan-Rhys Griffiths, Leo Klarner, Henry Moss, Aditya Ravuri, Sang T. Truong, Bojana Ranković, Yuanqi Du, Arian Rokkum Jamasb, Julius Schwartz, Austin Tripp, Gregory Kell, Anthony Bourached, Alex Chan, Jacob Moss, Chengzhi Guo, Alpha Lee, Philippe Schwaller, Jian Tang|
+[Cost-Sensitive Experimental Design for Atomistic Modeling](/files/cr/paper9.pdf) |Chong Liu, Anirudh Raju Natarajan, Derick Evan Ober, Anton Van der Ven, Yu-Xiang Wang|
+[Global Optimization with Parametric Function Approximation](/files/cr/paper10.pdf) |Chong Liu, Yu-Xiang Wang|
+[Data-efficient, multi-objective machine learning approach for additively manufactured cellular materials](/files/cr/paper11.pdf) |Ye Wei, Yu Qin, Bo Peng, Jiabao Dai, Liuliu Han, Yue Li, Peng Wen|
+[Online Active Learning for Soft Sensor Development using Semi-Supervised Autoencoders](/files/cr/paper12.pdf) |Davide Cacciarelli, Murat Kulahci, John Sølve Tyssedal|
+[Active Data Discovery: Mining Unknown Data using Submodular Information Measures](/files/cr/paper13.pdf) |Suraj Nandkishor Kothawade, Shivang Chopra, Rishabh K Iyer|
+[Deep Learning for Bayesian Optimization of Scientific Problems with High-Dimensional Structure](/files/cr/paper14.pdf) |Samuel Kim, Peter Y Lu, Charlotte Loh, Jamie Smith, Jasper Snoek, Marin Soljacic|
+[DeepCAVE: An Interactive Analysis Tool for Automated Machine Learning](/files/cr/paper15.pdf) |Rene Sass, Eddie Bergman, André Biedenkapp, Frank Hutter, Marius Lindauer|
+[Greedy online identification of linear dynamical systems](/files/cr/paper16.pdf) |Matthieu Blanke, Marc Lelarge|
+[Learning how to safely explore dynamic systems](/files/cr/paper17.pdf) |Christoph Zimmer, Cen-You Li, Mark Schillinger, Mona Meister, Barbara Rakitsch, Duy Nguyen-Tuong|
+[Near-Optimal Multi-Agent Learning for Safe Coverage Control](/files/cr/paper18.pdf) |Manish Prajapat, Matteo Turchetta, Melanie Zeilinger, Andreas Krause|
+[Experimental Design to Identify Antibiotic Synergy](/files/cr/paper19.pdf) |Jennifer Rogers Brennan, Lalit K Jain, Sofia Garman, Ann Donnelly, Erik Scott Wright, Kevin Jamieson|
+[Joint Entropy Search For Maximally-Informed Bayesian Optimization](/files/cr/paper20.pdf) |Carl Hvarfner, Frank Hutter, Luigi Nardi|
+[Active Exploration for Inverse Reinforcement Learning](/files/cr/paper21.pdf) |David Lindner, Andreas Krause, Giorgia Ramponi|
+[Bayesian Optimization over Discrete and Mixed Spaces via Probabilistic Reparameterization](/files/cr/paper22.pdf) |Sam Daulton, Xingchen Wan, David Eriksson, Maximilian Balandat, Michael A Osborne, Eytan Bakshy|
+[Characterizing the robustness of Bayesian adaptive experimental designs to active learning bias](/files/cr/paper23.pdf) |Sabina J. Sloman, Daniel Oppenheimer, Stephen Broomell, Cosma Rohilla Shalizi|
+[Active and continual learning of fusion plasma turbulence surrogate models for digital twinning of a tokamak device](/files/cr/paper24.pdf) |Jackson Barr, Thandikire Madula, Lorenzo Zanisi, Vignesh Gopakumar, Aaron Ho, Jonathan Citrin|
+[Sample-efficient Plasma Control by Planning for Optimal Trajectory Information](/files/cr/paper25.pdf) |Viraj Mehta, Ian Char, Joseph Abbate, Rory Conlin, Mark D Boyer, Stefano Ermon, Jeff Schneider, Willie Neiswanger|
+[Gaussian Processes for Episodic Experimental Design](/files/cr/paper26.pdf) |Ari Fiorino, Ojash Neopane, Aarti Singh|
+[Bounded regret in multi-agent bandit settings with linear contextual rewards](/files/cr/paper27.pdf) |Hyunwook Kang, Panganamala Kumar|
+[Deep Bayesian Active Learning via Equivalence Class Annealing](/files/cr/paper28.pdf) |Renyu Zhang, Aly A Khan, Robert L. Grossman, Yuxin Chen|
+[Data-Efficient Scientific Design Optimization with Neural Network Surrogates](/files/cr/paper29.pdf) |Jayaraman J. Thiagarajan, Rushil Anirudh, Vivek Narayanaswamy, Yamen Mubarka, Irene Kim, Peer-timo Bremer, Luc Peterson, Brian Spears|
+[Learning Policy from Suboptimal Demonstrations under Transition Dynamic Mismatch](/files/cr/paper30.pdf) |Taesu Kim, Jianhong Wang, Dafni Antotsiou, Tae-Kyun Kim|
+[Hierarchical Unimodal Bandits](/files/cr/paper31.pdf) |TIANCHI ZHAO, Chicheng Zhang, Ming Li|
+[Deep Surrogate of Modular Multi Pump using Active Learning - An Energy Application](/files/cr/paper32.pdf) |Malathi Murugesan, Kanika Goyal, Laure Barriere, Maura Pasquotti, Giacomo Veneri, Giovanni De Magistris|
+[Less Is More: A Comparison of Active Learning Strategies for 3D Medical Image Segmentation](/files/cr/paper33.pdf) |Josafat-Mattias Burmeister, Marcel Fernandez Rosas, Johannes Hagemann, Jonas Kordt, Jasper Blum, Simon Shabo, Benjamin Bergner, Christoph Lippert|
+[Nonparametric Indirect Active Learning](/files/cr/paper34.pdf) |Shashank Singh|
+[Adaptively Identifying Good Patient Populations in Clinical Trials](/files/cr/paper35.pdf) |Alicia Curth, Alihan Hüyük, Mihaela van der Schaar|
+[ActiveHedge: Hedge meets Active Learning](/files/cr/paper36.pdf) |Bhuvesh Kumar, Jacob Abernethy, Venkatesh Saligrama|
+[Bayesian Optimization for Macro Placement](/files/cr/paper37.pdf) |Changyong Oh, Roberto Bondesan, Dana Kianfar, Rehan Ahmed, Rishubh Khurana, Payal Agarwal, Mysore Sriram, Max Welling|
+[High-dimensional Optimistic Safe Optimization with Projection to Distance-preserving, Quasi-physical Spaces](/files/cr/paper38.pdf) |Zeji Yi, Yunyue Wei, Hongda Li, Yanan Sui|
+[Movement Penalized Bayesian Optimization with Application to Wind Energy Systems](/files/cr/paper39.pdf) |Shyam Sundhar Ramesh, Pier Giuseppe Sessa, Andreas Krause, Ilija Bogunovic|
+[GeneDisco: A Benchmark for Experimental Design in Drug Discovery](/files/cr/paper40.pdf) |Arash Mehrjou, Ashkan Soleymani, Andrew Jesson, Pascal Notin, Yarin Gal, Stefan Bauer, Patrick Schwab|
+[Treatment and Welfare Learning for Policymakers](/files/cr/paper41.pdf) |Edward Jee|
+[Meta-Learning Adversarial Bandits](/files/cr/paper42.pdf) |Nina Balcan, Keegan Harris, Mikhail Khodak, Steven Wu|
+[Machine learning-enabled high-entropy alloy discovery](/files/cr/paper43.pdf) |Ziyuan Rao, Ye Wei, Po-Yen Tung, Ruiwen Xie, Hongbin Zhang, Stefan Bauer, Dierk Raabe|
+[Interventions, Where and How? Bayesian Active Causal Discovery at Scale](/files/cr/paper44.pdf) |Panagiotis Tigas, Yashas Annadani, Andrew Jesson, Bernhard Schölkopf, Yarin Gal, Stefan Bauer|
+[Online Contextual Learning with Limited Feedback](/files/cr/paper45.pdf) |Sayak Ray Chowdhury, Aditya Gangrade, Ashok Cutkosky, Venkatesh Saligrama|
+[LG-FAL : Federated Active Learning Strategy using Local and Global Models](/files/cr/paper46.pdf) |SangMook Kim, Sangmin Bae, Hwanjun Song, Se-Young Yun|
+[Identifying Good Arms Fast and With Confidence: Strategies and Empirical Insights](/files/cr/paper47.pdf) |Alicia Curth, Alihan Hüyük, Mihaela van der Schaar|
+[Towards Meta-learned Algorithm Selection using Implicit Fidelity Information](/files/cr/paper48.pdf) |Aditya Mohan, Tim Ruhkopf, Marius Lindauer|
+[Efficient Real-world Testing of Causal Decision Making via Bayesian Experimental Design for Contextual Optimisation](/files/cr/paper49.pdf) |Desi R. Ivanova, Joel Jennings, Cheng Zhang, Adam Foster|
+[Random Actions vs Random Policies: Bootstrapping Model-Based Direct Policy Search](/files/cr/paper50.pdf) |Elias Hanna, Alex Coninx|
+[RADIAL: Random Sampling from Intelligent Pool for Active Learning](/files/cr/paper51.pdf) |Shivangana Rawat, Sai Vikas Desai, Vineeth N. Balasubramanian|
+[Simple Regret Minimization for Contextual Bandits Using Bayesian Optimal Experimental Design](/files/cr/paper52.pdf) |Matthew Jörke, Jonathan Lee, Emma Brunskill|
+[High-Dimensional Bayesian Optimization with Invariance](/files/cr/paper53.pdf) |Ekansh Verma, Souradip Chakraborty, Ryan-Rhys Griffiths|
+[Meta-Learning Hypothesis Spaces](/files/cr/paper54.pdf) |Parnian Kassraie, Jonas Rothfuss, Andreas Krause|
+[Active Linear Regression in the Online Setting via Leverage Score Sampling](/files/cr/paper55.pdf) |Harvineet Singh, Christopher P Musco, Rumi Chunara|
+[Contextual Active Online Model Selection with Expert Advice](/files/cr/paper56.pdf) |Xuefeng Liu, Fangfang Xia, Rick Stevens, Yuxin Chen|
+[A Comparison of Methods for Adaptive Experimentation](/files/cr/paper57.pdf) |Samantha Horn, Sabina J. Sloman|
+[Neural Design for Genetic Perturbation Experiments](/files/cr/paper58.pdf) |Aldo Pacchiano, Drausin Wulsin, Luis Voloch, Robert A Barton|
+[A Two-Stage Active Learning Algorithm for Nearest Neighbors](/files/cr/paper59.pdf) |Nicholas Rittler, Kamalika Chaudhuri|
+[Nonlinear Rescaling of Acquisition Metric Values Based on Distribution Fitting](/files/cr/paper60.pdf) |Jongeui Park, Youngchul Sung|
+[Pre-training helps Bayesian optimization too](/files/cr/paper61.pdf) |Zi Wang, George Edward Dahl, Kevin Swersky, Chansoo Lee, Zelda E Mariet, Zachary Nado, Justin Gilmer, Jasper Snoek, Zoubin Ghahramani|
+[A Deep Bayesian Bandits Approach for Anticancer Drug Screening : Exploration via Functional Prior](/files/cr/paper62.pdf) |MingYu Lu, Yifang Chen, Su-In Lee|
+[Learning Region of Interest for Bayesian Optimization with Adaptive Level-Set Estimation](/files/cr/paper63.pdf) |Fengxue Zhang, Jialin Song, James Bowden, Alexander Ladd, Yisong Yue, Thomas Desautels, Yuxin Chen|
+[Be Greedy – a Simple Algorithm for Blackbox Optimization using Neural Networks](/files/cr/paper64.pdf) |Biswajit Paria, Barnabas Poczos, Pradeep Kumar Ravikumar, Jeff Schneider, Arun Suggala|
+[Uniform versus uncertainty sampling: When being active is less efficient than staying passive](/files/cr/paper66.pdf) |Alexandru Tifrea, Jacob Clarysse, Fanny Yang|
+[Mitigating shortage of labeled data using clustering-based active learning with diversity exploration](/files/cr/paper67.pdf) |Xuyang Yan, Shabnam Nazmi, Biniam Gebru, Mohd Anwar, Abdollah Homaifar, Mrinmoy Sarkar, Kishor Datta Gupta|
+[Integrating Reward Maximization and Population Estimation: Sequential Decision-Making for Internal Revenue Service Audit Selection](/files/cr/paper68.pdf) |Peter Henderson, Ben Chugg, Brandon Anderson, Kristen M. Altenburger, Alex Turk, John L. Guyton, JACOB GOLDIN, Daniel E. Ho|
+[A Fundamental Trade-off in Continuous Value Estimation: Managing Temporal Resolution](/files/cr/paper69.pdf) |Zichen Zhang, Francesco Zanini, Junxi Zhang, Alex Ayoub, Johannes Kirschner, Masood Dehghan, Dale Schuurmans|
+[Demystifying the Base and Novel Performances for Few-shot Class-incremental Learning](/files/cr/paper70.pdf) |Jaehoon Oh, Se-Young Yun|
+[On Adaptivity and Confounding in Contextual Bandit Experiments](/files/cr/paper71.pdf) |Chao Qin, Daniel Russo|
+[Active Learning for Multilingual Fingerspelling Corpora](/files/cr/paper72.pdf) |Shuai Wang, Eric Nalisnick|
+[DECAL: DEployable Clinical Active Learning](/files/cr/paper73.pdf) |Yash-yee Logan, Mohit Prabhushankar, Ghassan AlRegib|
+[Bayesian Experimental Design for Computed Tomography with the Linearised Deep Image Prior](/files/cr/paper74.pdf) |Riccardo Barbano, Johannes Leuschner, Javier Antoran, Bangti Jin, José Miguel Hernández-Lobato|

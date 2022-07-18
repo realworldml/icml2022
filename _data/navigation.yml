@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Call for papers"
     url: /cfp/
+  - title: "Accepted Papers"
+    url: /accepted/
   - title: "Schedule"
     url: /schedule/
   - title: "Speakers"
