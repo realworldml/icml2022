@@ -57,7 +57,7 @@ feature_row_custom2:
 
 
 ---
-### <center>ICML Workshop - July 22, 2022 - Baltimore, USA<br/>Room 309</center> ###
+### <center>ICML Workshop - July 22, 2022 - Baltimore, USA<br/><br/>Room 309<br/><br/>[Workshop Virtual Site](https://icml.cc/virtual/2022/workshop/13456)</center> ###
 ------
 
 {: .text-justify}
