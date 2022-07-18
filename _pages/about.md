@@ -68,6 +68,8 @@ This workshop aims to bring together researchers from academia and industry to d
 
 **Format:** This is an in-person workshop in Baltimore, USA, with an in-person poster session. Remote participation will also be possible (this will be a hybrid event).
 
+**Accepted papers:** The list of accepted papers with authors and PDFs can be found [here](/accepted/).
+
 Invited Speakers
 ------
 {% include feature_row_custom%}
