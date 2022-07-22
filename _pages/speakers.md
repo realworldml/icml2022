@@ -38,7 +38,7 @@ feature_row_custom:
 Talk Details
 ------------
 
-**Jeff Schneider** - Invited Talk.
+**Jeff Schneider** - Invited Talk: Active Optimization for Real World Discovery and Control Applications.
 
 **Ava Soleimany** - Invited Talk.
 
