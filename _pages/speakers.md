@@ -34,3 +34,20 @@ feature_row_custom:
 ---
 
 {% include feature_row_custom%}
+
+Talk Details
+------------
+
+**Jeff Schneider** - Invited Talk.
+
+**Ava Soleimany** - Invited Talk.
+
+**Kevin Jamieson** - Invited Talk: Challenges for real world active learning.
+
+**Ruth Misener** - Invited Talk: Autonomous research machines: Self-optimizing new chemistry.
+
+**Peter Frazier** - Invited Talk: Bayesian Optimization in Biochemistry.
+
+**Christopher Langmead** - Invited Talk: Active Learning for the Design of Therapeutic Proteins.
+
+**Caroline Uhler** - Invited Talk.
