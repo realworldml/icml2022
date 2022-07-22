@@ -50,4 +50,4 @@ Talk Details
 
 **Christopher Langmead** - Invited Talk: Active Learning for the Design of Therapeutic Proteins.
 
-**Caroline Uhler** - Invited Talk.
+**Caroline Uhler** - Invited Talk: Optimal Design of Interventions for Causal Discovery in Genomics.
