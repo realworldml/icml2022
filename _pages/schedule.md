@@ -12,7 +12,7 @@ author_profile: true
 **09:20 AM - 10:00 AM**  <a ></a> |	(Invited Talk) **Jeff Schneider**
 **10:00 AM - 10:40 AM**  <a ></a> |	(Invited Talk) **Ava Soleimany**
 **10:40 AM - 11:00 AM**  <a ></a> |	**Coffee Break**
-**11:00 AM - 11:40 AM**  <a ></a> |	(Invited Talk) **Kevin Jamieson**
+**11:00 AM - 11:40 AM**  <a ></a> |	(**Update**) Poster Setup/Discussion and Extended Coffee Break
 **11:40 AM - 12:10 PM**  <a ></a> |	**Poster Spotlight Talks**
 **12:10 PM - 13:40 PM**  <a ></a> |	**Lunch**
 **13:40 PM - 14:20 PM**  <a ></a> |	(Invited Talk) **Ruth Misener**
