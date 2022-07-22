@@ -5,7 +5,7 @@ permalink: /accepted/
 author_profile: true
 ---
 
-**Paper** | **Authors** | **Slides**
+**Paper** | **Authors** | **Remark**
 ------------ | ------------
 [Multi-Information Source Bayesian Optimization of Culture Media for Cellular Agriculture](/files/cr/paper2.pdf) |Zachary Cosenza, Raul Astudillo, Peter I. Frazier| 
 [Information-theoretic Inducing Point Placement for High-throughput Bayesian Optimisation](/files/cr/paper3.pdf) |Henry Moss, Sebastian W. Ober, Victor Picheny| 
