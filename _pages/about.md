@@ -70,6 +70,8 @@ This workshop aims to bring together researchers from academia and industry to d
 
 **Accepted papers:** The list of accepted papers with authors and PDFs can be found [here](/accepted/).
 
+**Mailing list:** Please join our mailing list! To join, fill out the following form: [tinyurl.com/realml](https://tinyurl.com/realml).
+
 Invited Speakers
 ------
 {% include feature_row_custom%}
