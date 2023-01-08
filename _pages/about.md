@@ -61,14 +61,14 @@ feature_row_custom2:
 ------
 
 {: .text-justify}
-This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experimental design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in emerging high impact applications, such as **materials design**, **computational biology**, **algorithm configuration**, **AutoML**, **crowdsourcing**, **citizen science**, **energy systems**, **robotics**, **reinforcement learning**, [and more](/accepted/).
+This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing large-scale real-world experimental design and active learning problems. We aim to highlight new and emerging research opportunities for the ML community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for realistic applications. Progress in this area has the potential to provide immense benefits in emerging high impact applications, such as **materials design**, **computational biology**, **algorithm configuration**, **AutoML**, **crowdsourcing**, **citizen science**, **energy systems**, **robotics**, **reinforcement learning**, [and more](https://realworldml.github.io/icml2022/accepted/).
 
 
 **Remark:** For more information, please see the ICML conference [website](https://icml.cc/Conferences/2022/Dates).
 
 **Format:** This is an in-person workshop in Baltimore, USA, with an in-person poster session. Remote participation will also be possible (this will be a hybrid event).
 
-**Accepted papers:** The list of accepted papers with authors and PDFs can be found [here](/accepted/).
+**Accepted papers:** The list of accepted papers with authors and PDFs can be found [here](https://realworldml.github.io/icml2022/accepted/).
 
 **Mailing list:** Please join our mailing list! To join, fill out [this form](https://forms.gle/HyQHMQTnxLLXUhQu7).
 
@@ -78,7 +78,7 @@ Invited Speakers
 
 Call for Submissions & Important Dates
 ------
-Please see the [Call for papers](/cfp/) for submission instructions.
+Please see the [Call for papers](https://realworldml.github.io/icml2022/cfp/) for submission instructions.
 * **Submission deadline:** 3rd June 2022, 11:59 PM (AoE time)
 * **Notification of acceptance:** 13th June 2022, 11:59 PM (AoE time)
 
